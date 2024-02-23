@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\bin\Debug\net8.0\PrecioFinal.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\bin\Debug\net8.0\PrecioFinal.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\bin\Debug\net8.0\PrecioFinal.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\bin\Debug\net8.0\PrecioFinal.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\bin\Debug\net8.0\PrecioFinal.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\obj\Debug\net8.0\PrecioFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\obj\Debug\net8.0\PrecioFinal.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\obj\Debug\net8.0\PrecioFinal.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\obj\Debug\net8.0\PrecioFinal.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\obj\Debug\net8.0\PrecioFinal.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\obj\Debug\net8.0\refint\PrecioFinal.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\obj\Debug\net8.0\PrecioFinal.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\obj\Debug\net8.0\PrecioFinal.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\PrecioFinal\PrecioFinal\obj\Debug\net8.0\ref\PrecioFinal.dll

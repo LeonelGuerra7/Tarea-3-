@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\bin\Debug\net8.0\Edad.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\bin\Debug\net8.0\Edad.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\bin\Debug\net8.0\Edad.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\bin\Debug\net8.0\Edad.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\bin\Debug\net8.0\Edad.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\obj\Debug\net8.0\Edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\obj\Debug\net8.0\Edad.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\obj\Debug\net8.0\Edad.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\obj\Debug\net8.0\Edad.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\obj\Debug\net8.0\Edad.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\obj\Debug\net8.0\refint\Edad.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\obj\Debug\net8.0\Edad.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\obj\Debug\net8.0\Edad.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Edad\Edad\obj\Debug\net8.0\ref\Edad.dll

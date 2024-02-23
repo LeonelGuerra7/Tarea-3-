@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\bin\Debug\net8.0\InicioSesión.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\bin\Debug\net8.0\InicioSesión.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\bin\Debug\net8.0\InicioSesión.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\bin\Debug\net8.0\InicioSesión.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\bin\Debug\net8.0\InicioSesión.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\obj\Debug\net8.0\InicioSesión.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\obj\Debug\net8.0\InicioSesión.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\obj\Debug\net8.0\InicioSesión.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\obj\Debug\net8.0\InicioSesión.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\obj\Debug\net8.0\InicioSesión.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\obj\Debug\net8.0\refint\InicioSesión.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\obj\Debug\net8.0\InicioSesión.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\obj\Debug\net8.0\InicioSesión.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\InicioSesión\InicioSesión\obj\Debug\net8.0\ref\InicioSesión.dll

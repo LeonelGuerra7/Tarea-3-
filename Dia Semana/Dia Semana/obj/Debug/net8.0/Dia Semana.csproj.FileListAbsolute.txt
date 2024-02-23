@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\bin\Debug\net8.0\Dia Semana.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\bin\Debug\net8.0\Dia Semana.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\bin\Debug\net8.0\Dia Semana.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\bin\Debug\net8.0\Dia Semana.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\bin\Debug\net8.0\Dia Semana.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\obj\Debug\net8.0\Dia Semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\obj\Debug\net8.0\Dia Semana.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\obj\Debug\net8.0\Dia Semana.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\obj\Debug\net8.0\Dia Semana.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\obj\Debug\net8.0\Dia Semana.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\obj\Debug\net8.0\refint\Dia Semana.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\obj\Debug\net8.0\Dia Semana.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\obj\Debug\net8.0\Dia Semana.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Dia Semana\Dia Semana\obj\Debug\net8.0\ref\Dia Semana.dll

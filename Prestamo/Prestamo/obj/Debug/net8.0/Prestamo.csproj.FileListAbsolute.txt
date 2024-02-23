@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\bin\Debug\net8.0\Prestamo.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\bin\Debug\net8.0\Prestamo.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\bin\Debug\net8.0\Prestamo.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\bin\Debug\net8.0\Prestamo.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\bin\Debug\net8.0\Prestamo.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\obj\Debug\net8.0\Prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\obj\Debug\net8.0\Prestamo.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\obj\Debug\net8.0\Prestamo.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\obj\Debug\net8.0\Prestamo.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\obj\Debug\net8.0\Prestamo.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\obj\Debug\net8.0\refint\Prestamo.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\obj\Debug\net8.0\Prestamo.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\obj\Debug\net8.0\Prestamo.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Prestamo\Prestamo\obj\Debug\net8.0\ref\Prestamo.dll

@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\bin\Debug\net8.0\Servicio.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\bin\Debug\net8.0\Servicio.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\bin\Debug\net8.0\Servicio.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\bin\Debug\net8.0\Servicio.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\bin\Debug\net8.0\Servicio.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\obj\Debug\net8.0\Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\obj\Debug\net8.0\Servicio.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\obj\Debug\net8.0\Servicio.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\obj\Debug\net8.0\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\obj\Debug\net8.0\Servicio.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\obj\Debug\net8.0\refint\Servicio.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\obj\Debug\net8.0\Servicio.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\obj\Debug\net8.0\Servicio.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Servicio\Servicio\obj\Debug\net8.0\ref\Servicio.dll

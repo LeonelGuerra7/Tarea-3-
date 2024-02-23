@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\bin\Debug\net8.0\Idioma.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\bin\Debug\net8.0\Idioma.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\bin\Debug\net8.0\Idioma.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\bin\Debug\net8.0\Idioma.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\bin\Debug\net8.0\Idioma.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\obj\Debug\net8.0\Idioma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\obj\Debug\net8.0\Idioma.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\obj\Debug\net8.0\Idioma.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\obj\Debug\net8.0\Idioma.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\obj\Debug\net8.0\Idioma.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\obj\Debug\net8.0\refint\Idioma.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\obj\Debug\net8.0\Idioma.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\obj\Debug\net8.0\Idioma.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Tarea 3 Progra\Idioma\Idioma\obj\Debug\net8.0\ref\Idioma.dll
